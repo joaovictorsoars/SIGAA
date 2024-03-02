@@ -1,0 +1,13 @@
+{
+  "name": "Universidade Federal do Rio Grande do Norte",
+  "short_name": "UFRN",
+  "icons": [
+    {
+      "src": "google-touch-icon.png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "fullscreen"
+}
